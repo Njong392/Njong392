@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Njong392
 - 👀 I want to expand my knowledge.
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Web 
 - 💞️ I’m looking to collaborate on projects that'll create helpful systems. 
 - 📫 How to reach me: njongemy@gmail.com
 
