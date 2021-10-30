@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Side Hustle**
 
-- 🌱 I’m currently learning **Javacsript for Web Development**
+- 🌱 I’m currently learning **Javascript for Web Development**
 
 - 🤝 I’m looking for help with **Projects that will create helpful systems**
 
