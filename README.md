@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Side Hustle**
 
-- 🌱 I’m currently learning **PHP for Web Development**
+- 🌱 I’m currently learning **Javacsript for Web Development**
 
 - 🤝 I’m looking for help with **Projects that will create helpful systems**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **njongemy@gmail.com**
 
-- ⚡ Fun fact **I am cute**
+- ⚡ Fun fact **I think sleep is a blessing...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
