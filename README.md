@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njong392" alt="njong392" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/elabrava20" target="blank"><img src="https://img.shields.io/twitter/follow/elabrava20?logo=twitter&style=for-the-badge" alt="elabrava20" /></a> </p>
+<p align="left"> <a href="https://twitter.com/afumbom_bingeh" target="blank"><img src="https://img.shields.io/twitter/follow/afumbom_bingeh?logo=twitter&style=for-the-badge" alt="afumbom_bingeh" /></a> </p>
 
-- 🔭 I’m currently working on **Side Hustle**
+- 🔭 I’m currently working on **Side projects for skill building**
 
-- 🌱 I’m currently learning **Javascript for Web Development**
+- 🌱 I’m currently learning **Javascript and tailwind css for Web Development**
 
 - 🤝 I’m looking for help with **Projects that will create helpful systems**
 
