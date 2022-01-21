@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Njong Emy</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&size=40&lines=I+am+a+frontend+web+developer;Technical+writer;Tech+enthusiast)](https://git.io/typing-svg)
+
+
+<h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Njong Emy </h1>
 
 <br>
 
