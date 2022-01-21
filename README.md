@@ -8,7 +8,7 @@
 <br>
 
 <h2 align="center">About me</h2>
-<p align="center">College undergrad, swimiing her way through tech. Improving my frontend skills day by day, one step at a time. When I'm not coming up with (not so)
+<p align="center">College undergrad, swimming her way through tech. Improving my frontend skills day by day, one step at a time. When I'm not coming up with (not so)
 ground breaking ideas, I also enjoy writing.</p>
 
 <br>
