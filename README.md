@@ -2,8 +2,8 @@
 
 <h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Njong Emy </h1>
 
-![](![Untitled design](https://user-images.githubusercontent.com/81039882/150524951-0d62f04b-772e-47ac-b918-e1daae80eddc.gif)
-)
+![Untitled design](https://user-images.githubusercontent.com/81039882/150524951-0d62f04b-772e-47ac-b918-e1daae80eddc.gif)
+
 
 <br>
 
