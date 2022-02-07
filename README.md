@@ -31,9 +31,9 @@ ground breaking ideas, I also enjoy writing.</p>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=njong392&show_icons=true&theme=tokyonight" alt="njong392" />
   
   </p>
+  
   <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 <!---
 Njong392/Njong392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
