@@ -1,59 +1,46 @@
 
 
-<h1 align="center"> Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Njong Emy </h1>
+Hi 👋 My name is Njong Emy
+==========================
+
+Web Developer
+---
+
+I've been doodling with frontend development for quite some time now, and I absolutely love it. After going through HTML, CSS, and Bootstrap, I decided that it is something I want to do long term. Then ... I'm never  decided on anything :)
+
+* 🌍  I'm based in Cameroon.
+* ✉️  You can contact me at [njongemy@gmail.com](mailto:njongemy@gmail.com)
+* 🧠  I'm learning Javascript and Tailwindcss
+* ⚡  I talk to myself... a lot :)
+
+<a href="https://www.twitter.com/afumbom_bingeh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/afumbom_bingeh?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a>
+
+### Skills
+
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /></a></p>
 
 
+### Socials
 
-# 💫About Me :
-Hi there! Njong welcomes you to her profile.
+<p align="left">
+<a href="https://www.facebook.com/njongemy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Njong392" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.hashnode.com/@Bingeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/njong-emy-729764207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/afumbom_bingeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-She is an 18yo college undergrad, currently pursuing a bachelor's
-in computer engineering. Njong is a frontend web developer, constantly
-building her skills and aspiring to get better. Her hobbies include 
-reading fiction, watching movies, and perusing Google, Stack Overflow and 
-Quora for even the tiniest tech-related queries. She also enjoys
-referring to herself in third person, as that is definitely not weird at all :)
+### Badges
 
-</br>
+<b>My GitHub Stats</b>
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/njong-emy-729764207) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/afumbom_bingeh) 
+<a href="http://www.github.com/Njong392"><img src="https://github-readme-stats.vercel.app/api?username=Njong392&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Njong392's GitHub stats" /></a>
 
-</br>
+<a href="http://www.github.com/Njong392"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Njong392&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</br>
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Njong392&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Njong392&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Njong392&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</br>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Njong392&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-</br>
-
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
- 
-
-[![Njong's github activity graph](https://activity-graph.herokuapp.com/graph?username=Njong392&theme=react-dark)](https://github.com/Njong392/github-readme-activity-graph)
-
-
-
-  
-  <!--START_SECTION:activity-->
-
+<a href="http://www.github.com/Njong392"><img src="https://activity-graph.herokuapp.com/graph?username=Njong392&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!---
 Njong392/Njong392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
