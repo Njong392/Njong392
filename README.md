@@ -13,9 +13,7 @@ I've been doodling with frontend development for quite some time now, and I abso
 * 🧠  I'm learning Javascript and Tailwindcss
 * ⚡  I talk to myself... a lot :)
 
-<a href="https://www.twitter.com/afumbom_bingeh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/afumbom_bingeh?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 
