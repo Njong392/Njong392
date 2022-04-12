@@ -11,7 +11,7 @@ Web Developer
 * 🧠  I'm currently learning Javascript and Tailwindcss
 * ⚡  I like butter on my panackes :)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Njong's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Njong392/main/devcard.svg" width="400" alt="Njong's Dev Card"/></a>
 
 
 
