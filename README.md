@@ -6,8 +6,6 @@ Hi 👋 My name is Njong Emy
 Web Developer
 ---
 
-I've been doodling with frontend development for quite some time now, and I absolutely love it. After going through HTML, CSS, and Bootstrap, I decided that it is something I want to do long term. Then again... I'm never  decided on anything :)
-
 * 🌍  I'm based in Cameroon.
 * ✉️  You can contact me at [njongemy@gmail.com](mailto:njongemy@gmail.com)
 * 🧠  I'm currently learning Javascript and Tailwindcss
