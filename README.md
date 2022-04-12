@@ -5,15 +5,18 @@ Hi 👋 My name is Njong Emy
 
 Web Developer
 ---
-
+<p>
+  
 * 🌍  I'm based in Cameroon.
 * ✉️  You can contact me at [njongemy@gmail.com](mailto:njongemy@gmail.com)
 * 🧠  I'm currently learning Javascript and Tailwindcss
 * ⚡  I like butter on my panackes :)
+    
+  <p align="right">
+<a href="https://app.daily.dev/afumbom_bingeh"><img src="https://github.com/Njong392/Njong392/blob/main/devcard.svg" width="400" alt="Njong's Dev Card"/></a>
+  <p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Njong392/main/devcard.svg" width="400" alt="Njong's Dev Card"/></a>
-
-
+<p>
 
 ### Skills
 
@@ -34,10 +37,18 @@ Web Developer
 
 <b>My GitHub Stats</b>
 
+<p>
+  
+  <p align="left">
 <a href="http://www.github.com/Njong392"><img src="https://github-readme-stats.vercel.app/api?username=Njong392&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Njong392's GitHub stats" /></a>
-
+    </p>
+    
+    
+    <p align="right">
 <a href="http://www.github.com/Njong392"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Njong392&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
+  </p>
 
 
 <!---
