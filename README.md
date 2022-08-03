@@ -1,10 +1,6 @@
 
 
-Hi 👋 My name is Njong Emy
-==========================
-
-Front-end web developer
------------------------
+<img src="https://user-images.githubusercontent.com/81039882/182611597-f89d0233-2043-42b2-9d36-f0bc36d78353.jpeg" alt="drawing"/>
 
 Found a passion for web development and I can't wait to grow my skills. I love participating in communities, and giving back to small projects that I love. You will catch me watching a movie or five when I'm not coding.
 
