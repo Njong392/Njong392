@@ -5,9 +5,9 @@
 Found a passion for web development and I can't wait to grow my skills. I love participating in communities, and giving back to small projects that I love. You will catch me watching a movie or five when I'm not coding.
 
 *   ✉️  You can contact me at [njongemy@gmail.com](mailto:njongemy@gmail.com)
-*   🧠  I'm learning Tailwind CSS and JavaScript
-*   🤝  I'm open to collaborating on Open Source projects
-*   ⚡  I like butter on my pancakes :)<a href="https://www.twitter.com/njong_emy" target="_blank" rel="noreferrer">
+*   🧠  I'm currently learning React
+*   🤝  I'm open to collaborating on open source projects
+*   :tada: I'm building Abbreve, an open source dictionary for slangs, and a purple twitter clone.
   
   <img src="https://img.shields.io/twitter/follow/njong_emy?logo=twitter&style=for-the-badge&color=ec4899&labelColor=171717"/>
 
@@ -21,8 +21,7 @@ Found a passion for web development and I can't wait to grow my skills. I love p
                     </p>
                     
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/Njong392" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Bingehtheblogger.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/njong-emy-729764207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/njong_emy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ <a href="https://Bingehtheblogger.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/njong-emy-729764207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/njong_emy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
   <b>Top Repositories</b>
 
